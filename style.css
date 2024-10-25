@@ -1,0 +1,12 @@
+img {
+    width: 400px;
+}
+head{
+    font-family: 'Times New Roman';
+}
+body{
+    text-align:center;
+    font-family: 'Arial';
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
